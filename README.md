@@ -61,15 +61,15 @@ Scan the **QR Code** in the Expo Client app on your mobile device to run the app
 
 Here’s a quick preview of the app:
 
-![Home Screen](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20home.jpg)
+![Home Screen](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20home.jpg)
 
 ![Cookies Recipe](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20cookies.jpg)
 
-![Categories](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20catageries.jpg)
+![Categories](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20catageries.jpg)
 
-![Ingredients](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20ingridients.jpg)
+![Ingredients](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20ingridients.jpg)
 
-![Search Bar](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20searchbar.jpg)
+![Search Bar](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20searchbar.jpg)
 
 *(Replace the file paths with actual hosted URLs if deploying online.)*
 
