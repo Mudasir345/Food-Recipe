@@ -63,7 +63,7 @@ Here’s a quick preview of the app:
 
 ![Home Screen](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20home.jpg)
 
-![Cookies Recipe](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20cookies.jpg)
+![Cookies Recipe](https://github.com/Mudasir345/Food-Recipe/blob/main/assets/food%20recipe%20cookies.jpg)
 
 ![Categories](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20catageries.jpg)
 
