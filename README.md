@@ -1,37 +1,100 @@
-# Recipes App in React Native
+# 🍽️ Food Recipes App - React Native
 
-<center><a href="https://instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
+Welcome to the **Recipes App**, a beautifully designed mobile application built with **React Native**. This app allows users to explore delicious recipes, view detailed ingredients, and search for their favorite dishes with ease.
 
-Download this beautiful free React Native starter kit, featuring a recipes app, to bootstrap your mobile app development. Learn React Native by working on a real project. Get familiar with various native components, navigation, redux and more.
+---
 
-## Getting Started
+## 🚀 Features
 
-To run the app, simply run
+- 📖 **Recipes List** – Browse a variety of recipes.
+- 📂 **Categories** – Filter recipes based on different categories.
+- 🥘 **Ingredients** – View all ingredients needed for a recipe.
+- 📜 **Recipes Details Screen** – Get full details for each recipe.
+- 📸 **Photo Gallery** – High-quality images for every dish.
+- 📝 **Detailed Description** – Step-by-step instructions.
+- 🛒 **Ingredients List** – Check all ingredients before cooking.
+- 🔍 **Search Functionality** – Find your favorite recipes easily.
+- 📌 **Drawer Menu & Navigation Bar** – Smooth and intuitive UI.
+- 🎨 **Beautiful UI Design** – Aesthetic and user-friendly interface.
+- 📱 **Compatible with Expo** – Easy development and testing.
+- 🏗️ **Modularized Codebase** – Clean and scalable structure.
 
-```yarn install && expo start```
+---
 
-And scan the QR code in the Expo client app.
+## 📦 Installation & Setup
 
-## Expo Demo
+Follow these steps to set up and run the project on your local machine:
 
-<center><a href=""><img src="https://instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
+### 1️⃣ Clone the Repository
+Clone the repository using the following command:
 
-## Features
+```bash
+git clone https://github.com/Mudasir345/Food-Recipe.git
+```
 
-- Recipes List
-- Categories
-- Ingredients
-- Recipes Details Screen
-- Photo Gallery
-- Detailed Description
-- Ingredients button
-- Ingredients List
-- Recipes by Ingredient
-- Search
-- Drawer Menu
-- Navigation Bar
-- Beautiful UI Design Kit
-- Compatible with Expo
-- Highly modularized codebase
+### 2️⃣ Navigate to the Project Directory
+Once cloned, move into the project folder:
 
-Coded with 💖💖💖 by <a href="https://instamobile.io/">Instamobile</a>, <a href="https://instaflutter.com/">Instaflutter</a>. and <a href="https://instakotlin.com/">Instakotlin</a>.
+```bash
+cd Food-Recipe
+```
+
+### 3️⃣ Install Dependencies
+Run the following command to install the required dependencies:
+
+```bash
+npm install
+```
+
+### 4️⃣ Start the Application
+After installing dependencies, launch the application using:
+
+```bash
+npm start
+```
+
+Scan the **QR Code** in the Expo Client app on your mobile device to run the app.
+
+---
+
+## 🎥 Preview
+
+Here’s a quick preview of the app:
+
+![Home Screen](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20home.jpg)
+
+![Cookies Recipe](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20cookies.jpg)
+
+![Categories](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20catageries.jpg)
+
+![Ingredients](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20ingridients.jpg)
+
+![Search Bar](C:/Users/Mudasir%20Choudhry/Desktop/Recipe/assets/food%20recipe%20searchbar.jpg)
+
+*(Replace the file paths with actual hosted URLs if deploying online.)*
+
+---
+
+## 🤝 Contact the Developer
+
+If you have any questions, suggestions, or want to collaborate, feel free to reach out!
+
+📧 **Email:** mudasirchoudhry345@gmail.com  
+📱 **WhatsApp:** +92 304 7045345  
+
+I’d love to hear from you! 😊
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 🌟 Support the Project
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub! Your support motivates me to create more open-source projects.
+
+**Happy Cooking & Coding! 🚀🍽️**
+
